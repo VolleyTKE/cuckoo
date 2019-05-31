@@ -27,7 +27,7 @@ to download and install the proper packages according to your Python version.
 .. _`Python Pillow`: https://python-pillow.org/
 
 
-*NOTE*: Physical machinery is currently not supported by the new cuckoo agent.  Please use the old cuckoo agent for physical machinery in the meantime.
+*NOTE*: Physical machinery is currently not supported by the new cuckoo agent.  Please use the old cuckoo agent for physical machinery in the meantime. That agent can be found here: https://github.com/cuckoosandbox/cuckoo/blob/2.0-rc2/agent/agent.py
 
 Additional Software
 ===================
